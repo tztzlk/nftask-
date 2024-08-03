@@ -22,7 +22,7 @@
 
     ```sh
     git clone https://github.com/tztzlk/nftask-.git
-    cd ваш_репозиторий
+    cd logger.js
     ```
 
 2. Запустите программу:
